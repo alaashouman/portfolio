@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75bde562.css",
+    "main.js": "/static/js/main.f8a9e89c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/headerone.jpg": "/static/media/headerone.bf004b9ad0e57ff3fe1b.jpg",
+    "static/media/floraTech.png": "/static/media/floraTech.561488c781df5a726176.png",
+    "static/media/Magicmatch.png": "/static/media/Magicmatch.7b40cd974dd06c4dcad3.png",
+    "static/media/php.png": "/static/media/php.c8b3510ba31ec3e78845.png",
+    "static/media/alaa.pdf": "/static/media/alaa.507f6a062c1f091a598b.pdf",
+    "index.html": "/index.html",
+    "static/media/wavetwo.svg": "/static/media/wavetwo.5ac64c85e341316419c5ad409a856e96.svg",
+    "static/media/waveone.svg": "/static/media/waveone.e7978a12d8db1a429ade47ffc5356967.svg",
+    "main.75bde562.css.map": "/static/css/main.75bde562.css.map",
+    "main.f8a9e89c.js.map": "/static/js/main.f8a9e89c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bde562.css",
+    "static/js/main.f8a9e89c.js"
+  ]
+}
